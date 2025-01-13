@@ -1,7 +1,7 @@
 # Superstore Sales Analytics Dashboard
 
 An interactive dashboard built with Python and Dash to analyze Superstore sales data.
-
+![Dashboard Overview](main.png)
 ## Features
 
 - Sales Analysis
@@ -63,8 +63,8 @@ The dashboard uses the Superstore Sales dataset with the following features:
 - Dash
 - Plotly
 - Pandas
+- NumPy
+- Dash Bootstrap Components
 
 
 Nirant Bendale
-- NumPy
-- Dash Bootstrap Components
