@@ -5,17 +5,20 @@ An interactive dashboard built with Python and Dash to analyze Superstore sales 
 ## Features
 
 - Sales Analysis
+![Sales Analysis](sales.png)
   - Monthly sales trends
   - Category breakdown
   - Regional analysis
   - Segment performance
 
 - Customer Analysis
+![Customer Analysis](customer.png)
   - Customer segmentation
   - Regional distribution
   - Order patterns
 
 - Product Analysis
+![Product Analysis](product.png)
   - Subcategory performance
   - Top products
   - Category trends
